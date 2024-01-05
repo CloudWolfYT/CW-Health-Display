@@ -1,0 +1,5 @@
+tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
+
+tellraw @s ["",{"text":"< ","color":"#a2f5ff"},{"text":"C","color":"#a8ecf5"},{"text":"W ","color":"#aee3ec"},{"text":"M","color":"#b4dae2"},{"text":"o","color":"#bad1d9"},{"text":"b ","color":"#c1c9cf"},{"text":"H","color":"#c7c0c6"},{"text":"P ","color":"#cdb7bc"},{"text":"D","color":"#d3aeb3"},{"text":"i","color":"#d9a5a9"},{"text":"s","color":"#e09da0"},{"text":"p","color":"#e69496"},{"text":"l","color":"#ec8b8d"},{"text":"a","color":"#f28283"},{"text":"y ","color":"#f8797a"},{"text":">","color":"#ff7171"},{"text":" SETTINGS\n"}]
+execute if score .strict cw_hp_disp matches 1 run tellraw @s ["",{"text":" \u0020 • Display HP for all mobs? "},{"text":"☐","color":"#ff7171","clickEvent":{"action":"run_command","value":"/function cw_hp_disp:settings/strict_clear"}}]
+execute if score .strict cw_hp_disp matches 0 run tellraw @s ["",{"text":" \u0020 • Display HP for all mobs? "},{"text":"☑","color":"#ACFFA4","clickEvent":{"action":"run_command","value":"/function cw_hp_disp:settings/strict_set"}}]
