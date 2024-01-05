@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?)](#contributors-)
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/AsHA7GgqqM)
-[![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=MhSg40o8HUc)
+[![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=vrqToBDLarE)
 [![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/CW-Health-Display/total.svg)](https://github.com/CloudWolfYT/CW-Health-Display/releases)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
