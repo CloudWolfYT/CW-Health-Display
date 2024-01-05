@@ -20,17 +20,6 @@ Simply download the datapack and drop it in your world's "datapacks" folder and 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-## Flashlight Example 💡
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<img src="images/flashlight.png"
-     alt="Flashlight"
-     style="float: left; margin-right: 10px;" /> <br>
-In the "flashlight" example files, right clicking a carrot on a stick causes the flashlight to turn on/off. While the flashlight is on "battery" scoreboard is drained, and as it goes down the overlay in the top left corner indicates battery level. This example demonstrates the two channel handling. The battery display can operate independent of the flashlight as it is on the Blue channel and the flashlight is on the Green. <br>
-Note: The datapack implementation makes the flashlight multiplay friendly. <br>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-
 ## How it Works! 🔨
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
